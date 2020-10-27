@@ -3,7 +3,7 @@ aiohttp-session==2.8.0
 aiohttp-sse==2.0.0
 aiomonitor==0.4.4
 aiohttp==3.6.2
-cryptography==2.8
+cryptography==3.2
 dnspython==1.16.0
 htmlmin==0.1.12
 jinja2==2.10.3
